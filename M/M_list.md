@@ -12,10 +12,11 @@
 
 * moon
   * new moon = goe̍h-bâi-á (月眉仔) 
-  * crescent moon = goe̍h-bâi (月眉) 
+  * crescent moon = goe̍h-bâi (月眉), goa̍t-kiong (月弓)
   * quarter moon = goe̍h-pêng
   * full moon = goe̍h-îⁿ (月圓)
   * [SB]
     Chhamkhó 台日大辭典：
 
-    ![](pics/goeh_siong.png)
+    <img align="top" src="pics/goeh_siong.png">
+    <img align="top" src="pics/goat_kiong.png">
