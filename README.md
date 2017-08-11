@@ -8,3 +8,4 @@ lóng kìlio̍k tī chia.
 ## Kán-siá lē
 * [GT] = goân-thâu
 * [SB] = soat-bêng/soeh-bêng
+* TJT = Tâi-Ji̍t Tōa sû-tián (台日大辭典)

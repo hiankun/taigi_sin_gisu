@@ -1,4 +1,4 @@
-* scalar = su-ké-lò; sûn-liōng
+* scalar = su-ké-loh; sûn-liōng
   * [GT] Enggí
   * [GT] Hôagí: 純量
   * [SB]
@@ -12,7 +12,7 @@
 
     Khólū "scalar/vector/tensor", chit cho͘ sû èngkai chháiiōng kāngkhóan ê hoane̍k hongsek.
 
-* slope [math] = chhoa̍h-tō͘ (斜度) 
+* slope [math] = chhiâ-tō͘, chhoa̍h-tō͘ (斜度) 
   * [SB]
     Hôagí hō chò "斜率".
 
@@ -24,9 +24,9 @@
     Khólū **chhu** ū "chhu--tó" ê tōngchok; 
     **khi** ū "piáubīn bô pêⁿthán" ê ìsù;
     **siâ** kap 邪 kāng-im;
-    só͘í koattēng chháiiōng *chhoa̍h-lu̍t* lâi piáusī _slope_.
+    só͘í koattēng chháiiōng *chhiâ-tō͘/chhoa̍h-tō͘* lâi piáusī _slope_.
 
-* slope [physics] = chhoa̍h-bīn (斜面) 
+* slope [physics] = chhiâ-bīn, chhoa̍h-bīn (斜面) 
   * [SB]
     Chhiáⁿ chhamkhó "slope [math]".
 
@@ -44,6 +44,13 @@
     Góa tùi **khoài-bān** bo̍kchêng bô te̍kpia̍t ê siūⁿhoat.
 
     _Sok-pí_ koh tú-hó kap _speed_ lio̍hlio̍h-á kāng-im, só͘í iusian chháiiōng.
+
+* star = chhiⁿ, hêng-chhiⁿ (恒星)
+  * [GT] Ji̍tgí: [恒星 (こうせい)](https://ja.wikipedia.org/wiki/%E6%81%92%E6%98%9F)
+  * [SB]
+    TJT ū siu chit-ê jīsû.
+    
+    ![](pics/hengchhinn.png)
 
 * state = chōng-thài (狀態) 
   * [GT] Ji̍tgí: [状態 (じょうたい)](https://ja.wikipedia.org/wiki/%E7%8A%B6%E6%85%8B)

@@ -1,4 +1,4 @@
-* vector = bek-thò; hiòng-liōng
+* vector = bek-thoh; hiòng-liōng
   * [GT] Enggí
   * [GT] Hôagí: 向量
   * [SB]

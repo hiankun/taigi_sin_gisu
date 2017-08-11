@@ -18,6 +18,13 @@
     só͘í góa chútiuⁿ kā "hûi" póliû hō͘ goânté ê "hûi-á",
     iōng "chû" lâi chhengho͘ "magnetic" ê siongkoan hiānsiōng kap bu̍tthé.
 
+* electron = tiān-chú (電子)
+  * [GT] Ji̍tgí: [電子 (でんし)](https://ja.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90)
+  * [SB]
+    _Electron_ goânté ê ìsù tō sī tài-tiān ê mi̍h,
+    só͘í i ê Ji̍tgí jīsû ū ha̍h púnté ê tēnggī,
+    lán chia tō ti̍tchiap chháiiōng.
+
 * enzyme = kàⁿ-sò͘ (酵素)
   * [GT] Ji̍tgí: [酵素 (こうそ)](https://ja.wikipedia.org/wiki/%E9%85%B5%E7%B4%A0)
   * [SB]

@@ -1,3 +1,31 @@
+* peptide = phép-thāi-tò
+  * [SB]
+    Ùi Enggí hoat-im lâi im-e̍k.
+
+    Hôagí sī 多肽/胜肽.
+
+* period = chiu-kî (周期)
+  * [SB]
+    
+* planet = hêng-chhiⁿ (行星), iû-chhiⁿ (遊星)
+  * [SB]
+    TJT lāité ū siu chit-ê sû.
+
+    Suibóng púnté ū **hêng-chhiⁿ** chit-ê kónghoat,
+    m̄koh khólū i kap **恒星** kāng im,
+    só͘í kiàngī sú-iōng **iû-chhiⁿ**.
+
+    _Planet_ goânté ê ìsù sī _wanderer_, tō sī **liû-lōng chiá**.
+    **iû-chhiⁿ** tú-hó ētàng tùi-èng chit-ê ìsù.
+
+    ![](pics/iuchhinn.png)
+    
+* polymerase = pho-lí-mō-lē-sù
+  * [SB]
+    Ùi Enggí hoat-im lâi im-e̍k.
+
+    Hôagí sī 聚合酶.
+
 * position = ūi-tì (位置)
   * [GT] Ji̍tgí: [位置 (いち)](https://ja.wikipedia.org/wiki/%E4%BD%8D%E7%BD%AE)
   * [SB]
@@ -6,7 +34,7 @@
 * protein = phu-ló͘-thìn, tān-pe̍k-chit (蛋白質)
   * [GT] Enggí, Ji̍tgí: [タンパク質 (タンパクしつ、蛋白質)](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA)
   * [SB]
-    Tī 台日大辭典 lāité ū siu "tān-pe̍k-chit (蛋白質)":
+    Tī TJT lāité ū siu "tān-pe̍k-chit (蛋白質)":
 
     ![](pics/tanpekchit.png)
 
@@ -23,4 +51,7 @@
 
     Chiàu ánne lâi khòaⁿ, Tâigí ê hoane̍k kiàngī iōng ime̍k **phu-ló͘-thìn**.
     
-
+* proton = iông-chú (陽子)
+  * [GT] Ji̍tgí: [陽子 (ようし)](https://ja.wikipedia.org/wiki/%E9%99%BD%E5%AD%90)
+  * [SB]
+    _Proton_ púnsin tài iông-tiān, hō chò **iông-chú** chin ha̍h i ê te̍ksek.
